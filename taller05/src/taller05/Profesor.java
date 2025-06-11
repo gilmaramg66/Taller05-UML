@@ -1,4 +1,4 @@
-package taller03;
+package taller05;
 
 public class Profesor extends PersonalAcademico{
     private java.util.Collection cursosACargo;

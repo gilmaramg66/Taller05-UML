@@ -1,4 +1,4 @@
-package taller03;
+package taller05;
 
 public class SoporteTecnico extends Usuario{
     public void brindarAsistencia(Usuario usuario){
